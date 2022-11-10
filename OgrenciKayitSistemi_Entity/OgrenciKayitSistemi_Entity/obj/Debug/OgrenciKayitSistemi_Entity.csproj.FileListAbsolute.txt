@@ -1,0 +1,16 @@
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\OgrenciKayitSistemi_Entity.exe.config
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\OgrenciKayitSistemi_Entity.exe
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\OgrenciKayitSistemi_Entity.pdb
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\EntityFramework.dll
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\EntityFramework.xml
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.csproj.AssemblyReference.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.csproj.SuggestedBindingRedirects.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.Form1.resources
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.Properties.Resources.resources
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.csproj.GenerateResource.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.csproj.CoreCompileInputs.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.csproj.CopyComplete
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.exe
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi_Entity\OgrenciKayitSistemi_Entity\obj\Debug\OgrenciKayitSistemi_Entity.pdb
